@@ -675,6 +675,10 @@ video {
   bottom: -40vh;
 }
 
+.-top-16 {
+  top: -4rem;
+}
+
 .bottom-0 {
   bottom: 0px;
 }
@@ -705,6 +709,10 @@ video {
 
 .top-\[8vh\] {
   top: 8vh;
+}
+
+.-top-4 {
+  top: -1rem;
 }
 
 .isolate {
@@ -1061,6 +1069,10 @@ video {
 
 .h-8 {
   height: 2rem;
+}
+
+.h-\[100vh\] {
+  height: 100vh;
 }
 
 .h-\[125vh\] {
@@ -2471,6 +2483,10 @@ video {
   padding-bottom: 1rem;
 }
 
+.pb-6 {
+  padding-bottom: 1.5rem;
+}
+
 .pl-2 {
   padding-left: 0.5rem;
 }
@@ -3670,9 +3686,9 @@ video {
     padding-bottom: 3rem;
   }
 
-  .lg\:py-6 {
-    padding-top: 1.5rem;
-    padding-bottom: 1.5rem;
+  .lg\:py-3 {
+    padding-top: 0.75rem;
+    padding-bottom: 0.75rem;
   }
 
   .lg\:text-3xl {
